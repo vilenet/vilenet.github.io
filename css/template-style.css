@@ -3,3 +3,8 @@
   float:none;
   }
 }
+
+.round {
+    border-radius: 100px; /* Радиус скругления */
+    box-shadow: 0 0 0 3px green, 0 0 13px #333; /* Параметры теней */
+ }
