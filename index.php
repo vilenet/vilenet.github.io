@@ -18,7 +18,7 @@
             <div class="line">
                <div class="s-12 l-2">
             
-                  <img class="s-5 l-12 center" src="img/logo.png">
+                  <img class="s-5 l-12 center" src="img/logo.png" class="round">
                </div>
                <div class="top-nav s-12 l-10 right">
                   <p class="nav-text">Custom menu text</p>
